@@ -18,6 +18,7 @@ function App() {
 
 function TodoListCard() {
     const [items, setItems] = React.useState(null);
+    <h1 className="text-center">YAMEOGO Kiswendsida Aristide Childeric</h1>
 
     React.useEffect(() => {
         fetch('/items')
