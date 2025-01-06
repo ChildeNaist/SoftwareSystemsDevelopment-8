@@ -4,7 +4,7 @@ function App() {
         <Container>
             <Row className="my-4">
                 <Col>
-                    <h1 className="text-center">YAMEOGO Kiswendsida Aristide Childeric</h1>
+                    <h1 className="text-center">ChildeNaist : YAMEOGO Kiswendsida Aristide Childeric</h1>
                 </Col>
             </Row>            
             <Row>
